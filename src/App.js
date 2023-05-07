@@ -26,7 +26,7 @@ export function App() {
       <Title texto="Exercicio 01" />
 
       <div id="cardExercicio">
-        <Title texto="Exercicio Contador" />
+        <Title texto="Contador" />
 
         <div classname="cardSaida">
           <Saida result={count} />
