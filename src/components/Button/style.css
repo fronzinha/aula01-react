@@ -1,0 +1,29 @@
+.cardBotao {
+    display: flex;
+}
+
+.botao {
+    padding: 8px 14px;
+
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    color: white;
+    background-color: rgb(156, 156, 156);
+    cursor: pointer;    
+    box-shadow: 8px 8px 8px -4px rgb(106, 109, 109);
+    border-radius: 8px;
+}
+
+
+.botao:hover {
+    padding: 8px 14px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: rgb(148, 147, 147);
+    box-shadow: 8px 8px 8px -4px rgb(106, 109, 109);
+    cursor: pointer;    
+    border-radius: 8px;
+}

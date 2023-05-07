@@ -1,0 +1,9 @@
+.result {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: solid grey 1.3px;
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+}
